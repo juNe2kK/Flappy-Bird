@@ -54,4 +54,8 @@ Flappy-Bird/
 │── pipe.py          # Pipe generation and movement
 │── README.md
 │── demo.gif
->>>>>>> master
+```
+
+---
+
+Feel free to fork, contribute, or suggest improvements!
