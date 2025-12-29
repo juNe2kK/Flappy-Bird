@@ -11,8 +11,6 @@ This project focuses on smooth gameplay mechanics, physics-based movement, colli
 
 ![Flappy Bird Demo](demo.gif)
 
-> *(Replace `demo.gif` with your actual GIF file name once added to the repository)*
-
 ---
 
 ## 🎮 Features
